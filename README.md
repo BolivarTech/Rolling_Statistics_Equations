@@ -12,4 +12,5 @@ This project provides implementations of rolling statistics equations, including
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BolivarTech/Rolling_Statistics_Equations.git
+   ```
