@@ -14,3 +14,8 @@ This project provides implementations of rolling statistics equations, including
    ```bash
    git clone https://github.com/BolivarTech/Rolling_Statistics_Equations.git
    ```
+   
+2. Show the equations:
+   
+  Open file [Rolling_Statistics.ipynb](./Rolling_Statistics.ipynb) in Jupyter Notebook or any compatible IDE to view the equations and their symbolic representations.
+  
