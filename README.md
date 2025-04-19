@@ -8,7 +8,7 @@ This project provides implementations of rolling statistics equations, including
 - Compute Rolling Standard Deviation for dynamic datasets.
 - Symbolic representation of equations using `sympy`.
 
-## Installation
+## Installation and Usage
 
 1. Clone the repository:
    ```bash
